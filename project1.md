@@ -20,3 +20,6 @@ https://user-images.githubusercontent.com/59569233/162590978-2a3286e4-ede6-4e98-
 https://user-images.githubusercontent.com/59569233/162590987-11045990-abd8-4f2b-9528-c7b2eaec09e1.PNG
 
 https://user-images.githubusercontent.com/59569233/162591003-3d477670-e107-4830-9ca7-8af857315ab7.PNG
+
+
+I have successfully installed Apache, MySQL, and PHP on my EC2 Ubuntu server. I have also enebled the PHP on my website.
